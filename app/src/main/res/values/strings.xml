@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">laboratorio3</string>
+
+    <string-array name="usuarios">
+        <item>Administrador</item>
+        <item>usuario1</item>
+        <item>usuario2</item>
+    </string-array>
+    <string-array name="claves">
+        <item>1234</item>
+        <item>56789</item>
+        <item>pajarito</item>
+    </string-array>
+
+    <string-array name="departamentos">
+        <item>Ahuachapán</item>
+        <item>Santa Ana</item>
+        <item>Sonsonate</item>
+        <item>Usulután</item>
+        <item>San Miguel</item>
+        <item>Morazán</item>
+        <item>La Unión</item>
+        <item>La Libertad</item>
+        <item>Chalatenango</item>
+        <item>Cuscatlán</item>
+        <item>San Salvador (la capital)</item>
+        <item>La Paz</item>
+        <item>Cabañas</item>
+        <item>San Vicente</item>
+    </string-array>
+    <string-array name="ahuachapan">
+        <item>"1. Ahuachapán"</item>
+        <item>"2. Jujutla"</item>
+        <item>"3. Atiquizaya"</item>
+        <item>"4. Concepción de Ataco"</item>
+        <item>"5. El Refugio"</item>
+        <item>"6. Guaymango"</item>
+        <item>"7. Apaneca"</item>
+        <item>"8. San Francisco Menéndez"</item>
+        <item>"9. San Lorenzo"</item>
+        <item>"10. San Pedro Puxtla"</item>
+        <item>"11. Tacuba"</item>
+    </string-array>
+    <string-array name="santana">
+        <item>"Candelaria de la Frontera 91.13 km² 33,550 hab."</item>
+        <item>"Chalchuapa 165.76 km² 86,200 hab."</item>
+        <item>"Coatepeque 126.85 km² 48,544 hab."</item>
+        <item>"El Congo 91.43 km² 22,274 hab."</item>
+        <item>"El Porvenir 52.52 km² 7,819 hab."</item>
+        <item>"Masahuat 71.23 km² 5,125 hab."</item>
+        <item>"Metapán 668.36 km² 59,499 hab."</item>
+        <item>"San Antonio Pajonal 51.92 km² 4,574 hab."</item>
+        <item>"San Sebastián Salitrillo 42.32 km² 16,688 hab."</item>
+        <item>"Santa Ana 400.05 km² 261,568 hab."</item>
+        <item>"Santa Rosa Guachipilín 38.41 km² 7,909 hab."</item>
+        <item>"Santiago de la Frontera 44.22 km² 9,150 hab."</item>
+    </string-array>
+    <string-array name="sonsonate">
+        <item>"1. Acajutla"</item>
+        <item>"2. Armenia"</item>
+        <item>"3. Caluco"</item>
+        <item>"4. Cuisnahuat"</item>
+        <item>"5. Izalco"</item>
+        <item>"6. Juayúa"</item>
+        <item>"7. Nahuizalco"</item>
+        <item>"8. Nahulingo"</item>
+        <item>"9. Salcoatitán"</item>
+        <item>"10. San Antonio del Monte"</item>
+        <item>"11. San Julián"</item>
+    </string-array>
+    <string-array name="chalatenango">
+        <item>"1. Agua Caliente"</item>
+        <item>"2. Arcatao"</item>
+        <item>"3. Azacualpa"</item>
+        <item>"4. Chalatenango (ciudad)"</item>
+        <item>"5. Citalá"</item>
+        <item>"6. Comalapa"</item>
+        <item>"7. Concepción Quezaltepeque"</item>
+        <item>"8. Dulce Nombre de María"</item>
+        <item>"9. El Carrizal"</item>
+        <item>"10. El Paraíso"</item>
+        <item>"11. La Laguna"</item>
+    </string-array>
+    <string-array name="cuscatlan">
+        <item>"1. Candelaria"</item>
+        <item>"2. Cojutepeque"</item>
+        <item>"3. El Carmen"</item>
+        <item>"4. El Rosario"</item>
+        <item>"5. Monte San Juan"</item>
+        <item>"6. Oratorio de Concepción"</item>
+        <item>"7. San Bartolomé Perulapía"</item>
+        <item>"8. San Cristóbal"</item>
+        <item>"9. San José Guayabal"</item>
+        <item>"10. San Pedro Perulapán"</item>
+        <item>"11. San Rafael Cedros"</item>
+    </string-array>
+    <string-array name="sansalvador">
+        <item>"* Aguilares"</item>
+        <item>"* Apopa"</item>
+        <item>"* Ayutuxtepeque"</item>
+        <item>"* Cuscatancingo"</item>
+        <item>"* Delgado"</item>
+        <item>"* El Paisnal"</item>
+        <item>"* Guazapa"</item>
+        <item>"* Ilopango"</item>
+        <item>"* Mejicanos"</item>
+        <item>"* Nejapa"</item>
+        <item>"* Panchimalco"</item>
+    </string-array>
+    <string-array name="lalibertad">
+        <item>"1. Antiguo Cuscatlán"</item>
+        <item>"2. Chiltiupán"</item>
+        <item>"3. Ciudad Arce"</item>
+        <item>"4. Colón"</item>
+        <item>"5. Comasagua"</item>
+        <item>"6. Huizúcar"</item>
+        <item>"7. Jayaque"</item>
+        <item>"8. Jicalapa"</item>
+        <item>"9. La Libertad"</item>
+        <item>"10. Santa Tecla"</item>
+        <item>"11. Nuevo Cuscatlán"</item>
+    </string-array>
+    <string-array name="sanvicente">
+        <item>"Apastepeque 120.56 km² 20,285 hab."</item>
+        <item>"Guadalupe 21.51 km² 6,369 hab."</item>
+        <item>"San Cayetano Istepeque 17.01 km² 6,473 hab."</item>
+        <item>"San Esteban Catarina 78.14 km² 4,147 hab."</item>
+        <item>"San Ildefonso 136.37 km² 10,015 hab."</item>
+        <item>"San Lorenzo 18.71 km² 7,027 hab."</item>
+        <item>"San Sebastián 61.83 km² 15,193 hab."</item>
+        <item>"San Vicente 267.25 km² 52,404 hab."</item>
+        <item>"Santa Clara 124.46 km² 5,145 hab."</item>
+        <item>"Santo Domingo 16.41 km² 7,962 hab."</item>
+        <item>"Tecoluca 284.65 km² 20,065 hab."</item>
+    </string-array>
+    <string-array name="lapaz">
+        <item>"* Cuyul***án"</item>
+        <item>"* El Rosario"</item>
+        <item>"* Jerusalén"</item>
+        <item>"* Mercedes La Ceiba"</item>
+        <item>"* Olocuilta"</item>
+        <item>"* Paraíso de Osorio"</item>
+        <item>"* San Antonio Masahuat"</item>
+        <item>"* San Emigdio"</item>
+        <item>"* San Francisco Chinameca"</item>
+        <item>"* San Juan Nonualco"</item>
+        <item>"* San Juan Talpa"</item>
+    </string-array>
+    <string-array name="cabanas">
+        <item>"Cinquera 34.51 km² 757 hab."</item>
+        <item>"Dolores 149.05 km² 6,143 hab."</item>
+        <item>"Guacotecti 21.01 km² 4,424 hab."</item>
+        <item>"Ilobasco 249.69 km² 64, 249 hab."</item>
+        <item>"Jutiapa 67.12 km² 7,866 hab."</item>
+        <item>"San Isidro 78.33 km² 10,422 hab."</item>
+        <item>"Sensuntepeque 306.33 km² 41,215 hab."</item>
+        <item>"Tejutepeque 50.52 km² 5,480 hab."</item>
+        <item>"Victoria 146.95 km² 14,796 hab."</item>
+        <item>"Guacotecti 21.01 km² 4,424 hab."</item>
+        <item>"Sensuntepeque 306.33 km² 41,215 hab."</item>
+    </string-array>
+    <string-array name="usulutan">
+        <item>"1. Alegría"</item>
+        <item>"2. Berlín"</item>
+        <item>"3. California"</item>
+        <item>"4. Concepción Batres"</item>
+        <item>"5. El Triunfo"</item>
+        <item>"6. Ereguayquín"</item>
+        <item>"7. Estanzuelas"</item>
+        <item>"8. Jiquilisco"</item>
+        <item>"9. Jucuapa"</item>
+        <item>"10. Jucuarán"</item>
+        <item>"11. Mercedes Umaña"</item>
+    </string-array>
+    <string-array name="sanmiguel">
+        <item>"1. Carolina"</item>
+        <item>"2. Chapeltique"</item>
+        <item>"3. Chinameca"</item>
+        <item>"4. Chirilagua"</item>
+        <item>"5. Ciudad Barrios"</item>
+        <item>"6. Comacarán"</item>
+        <item>"7. El Tránsito"</item>
+        <item>"8. Lolotique"</item>
+        <item>"9. Moncagua"</item>
+        <item>"10. Nueva Guadalupe"</item>
+        <item>"11. Nuevo Edén de San Juan"</item>
+    </string-array>
+    <string-array name="morazan">
+        <item>"Arambala 114.21 km² 2,129 hab."</item>
+        <item>"Cacaopera 135.73 km² 10,558 hab."</item>
+        <item>"Chilanga 34.33 km² 9,105 hab."</item>
+        <item>"Corinto 94.99 km² 17,557 hab."</item>
+        <item>"Delicias de Concepción 20.22 km² 4,980 hab."</item>
+        <item>"El Divisadero 61.36 km² 8,058 hab."</item>
+        <item>"El Rosario 19.12 km² 1,296 hab."</item>
+        <item>"Gualococti 18.62 km² 3,336 hab."</item>
+        <item>"Guatajiagua 70.77 km² 10,907 hab."</item>
+        <item>"Joateca 66.27 km² 3,886 hab."</item>
+        <item>"Jocoaitique 51.85 km² 2,325 hab."</item>
+    </string-array>
+    <string-array name="launion">
+        <item>"* La Unión (ciudad),"</item>
+        <item>"* San Alejo (ciudad),"</item>
+        <item>"* Yucuaiquín (ciudad),"</item>
+        <item>"* Conchagua (ciudad),"</item>
+        <item>"* Intipucá (villa),"</item>
+        <item>"* San José (villa),"</item>
+        <item>"* El Carmen (villa),"</item>
+        <item>"* Yayantique (pueblo),"</item>
+        <item>"* Bolívar (pueblo),"</item>
+        <item>"* Meanguera del Golfo (pueblo)"</item>
+        <item>"* Santa Rosa de Lima (ciudad),"</item>
+    </string-array>
+
+    <string-array name="a1">
+        <item>"El municipio de Ahuachapán es la capital del departamento de Ahuachapán y una de las ciudades más importantes de la zona occidental "</item>
+    </string-array>
+    <string-array name="a2">
+        <item>"Jujutla es un municipio del departamento de Ahuchapán en El Salvador"</item>
+    </string-array>
+    <string-array name="a3">
+        <item>"departamento de Ahuachapán, en El Salvador; cabe destacar que Atiquizaya es uno de los dos distritos con los que cuenta el departamento de Ahuachapán"</item>
+    </string-array>
+    <string-array name="a4">
+        <item>"Ataco es uno de los municipios más turísticos de El Salvador, también es considerado como uno de los Pueblos Vivos "</item>
+    </string-array>
+    <string-array name="a5">
+        <item>"El Refugio es un municipio del departamento de Ahuachapán ubicado a 82 Km de San Salvador "</item>
+    </string-array>
+    <string-array name="a6">
+        <item>"también pertenece al distrito de Ahuachapán, en este mismo departamento salvadoreño.  Su nombre es de origen nahuat y significa: Valle de ranas"</item>
+    </string-array>
+    <string-array name="a7">
+        <item>"Apaneca es un municipio del Distrito y Departamento de Ahuachapán, en El Salvador. Tiene un área de 45,13 kilómetros"</item>
+    </string-array>
+    <string-array name="a8">
+        <item>"San Francisco Menéndez esta ubicado en el departamento de Ahuachapán, es uno de los municipios que fronteriza con la hermana República de Guatemala"</item>
+    </string-array>
+    <string-array name="a9">
+        <item>"San Lorenzo, fundado entre 1811 y 1814, es conocido como la “Tierra de las Leyendas”, el pueblo de “Los Samaritanos” y la “Ciudad Samaritana”"</item>
+    </string-array>
+    <string-array name="a10">
+        <item>"Puxtla es pueblo yaqui o pipil de fundación muy anterior a la llegada de los españoles. En idioma náhuat, tal nombre significa "lugar de mercaderes", pues proviene de puxti"</item>
+    </string-array>
+    <string-array name="a11">
+        <item>"Tacuba es un municipio del departamento de Ahuchapán en El Salvador,en idioma nahuat, significa patio o campo de juego de pelota."</item>
+    </string-array>
+</resources>
